@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Katherine Alondra Ruiz | Desarrolladora Full Stack",
+    "description": "Desarrolladora full stack con más de 6 años de experiencia creando aplicaciones web con Vue.js, .NET, Node.js, Python y Java."
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "menu": "Abrir menú",
+    "language": "Cambiar idioma",
+    "themeToDark": "Cambiar a modo oscuro",
+    "themeToLight": "Cambiar a modo claro"
+  },
+  "hero": {
+    "role": "Desarrolladora Full Stack",
+    "summary": "Más de 6 años creando aplicaciones web con Vue.js, .NET, Node.js, Python y Java. Diseño integraciones backend escalables, construyo componentes frontend reutilizables y convierto requerimientos de negocio en código limpio y mantenible.",
+    "downloadCv": "Descargar CV",
+    "contactMe": "Contáctame",
+    "cvFile": "/cv/KAR_CV_ES.pdf"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "body": "Soy desarrolladora full stack y disfruto todo el recorrido de una funcionalidad: entender el problema del negocio, diseñar la API y entregar una interfaz pulida. He creado módulos ERP en Odoo, APIs de logística en Node.js y aplicaciones para clientes en Vue.js. Me apasiona aprender continuamente y compartir conocimiento para ayudar a los equipos a entregar software de calidad."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "groups": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "data": "Bases de datos y caché",
+      "cloud": "Cloud y ERP",
+      "tools": "Herramientas"
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "present": "Presente"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "problem": "Problema",
+    "challenge": "Reto",
+    "solution": "Cómo lo resolví",
+    "more": "Ver más en GitHub"
+  },
+  "education": {
+    "title": "Educación",
+    "degree": "Ingeniería en Sistemas de Información",
+    "school": "Universidad Nacional Autónoma de Nicaragua (UNAN)"
+  },
+  "contact": {
+    "title": "Trabajemos juntos",
+    "body": "Estoy abierta a nuevas oportunidades y colaboraciones. La forma más rápida de contactarme es por correo."
+  },
+  "footer": {
+    "built": "Hecho con Vue 3 y Vite"
+  }
+}

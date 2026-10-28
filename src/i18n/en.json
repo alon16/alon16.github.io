@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Katherine Alondra Ruiz | Full Stack Developer",
+    "description": "Full stack developer with 6+ years of experience building web applications with Vue.js, .NET, Node.js, Python and Java."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "language": "Change language",
+    "themeToDark": "Switch to dark mode",
+    "themeToLight": "Switch to light mode"
+  },
+  "hero": {
+    "role": "Full Stack Developer",
+    "summary": "6+ years building web applications with Vue.js, .NET, Node.js, Python and Java. I design scalable backend integrations, build reusable frontend components, and turn business requirements into clean, maintainable code.",
+    "downloadCv": "Download CV",
+    "contactMe": "Get in touch",
+    "cvFile": "/cv/KAR_CV_EN.pdf"
+  },
+  "about": {
+    "title": "About me",
+    "body": "I'm a full stack developer who enjoys the whole journey of a feature: understanding the business problem, designing the API, and shipping a polished interface. I've built ERP modules in Odoo, logistics APIs in Node.js, and customer-facing apps in Vue.js. I'm passionate about continuous learning and sharing knowledge to help teams deliver high-quality software."
+  },
+  "skills": {
+    "title": "Skills",
+    "groups": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "data": "Databases & cache",
+      "cloud": "Cloud & ERP",
+      "tools": "Tools"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "present": "Present"
+  },
+  "projects": {
+    "title": "Projects",
+    "problem": "Problem",
+    "challenge": "Challenge",
+    "solution": "How I solved it",
+    "more": "See more on GitHub"
+  },
+  "education": {
+    "title": "Education",
+    "degree": "Information Systems Engineering",
+    "school": "Universidad Nacional Autónoma de Nicaragua (UNAN)"
+  },
+  "contact": {
+    "title": "Let's work together",
+    "body": "I'm open to new opportunities and collaborations. The fastest way to reach me is by email."
+  },
+  "footer": {
+    "built": "Built with Vue 3 & Vite"
+  }
+}
