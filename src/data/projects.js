@@ -4,6 +4,7 @@ export const projects = [
   {
     name: 'Components UI Base',
     repo: 'https://github.com/alon16/alon-components-ui-base',
+    demo: 'https://alon16.github.io/alon-components-ui-base/',
     problem: {
       en: 'Every web portal ends up rebuilding the same form controls (inputs, selects, date pickers, dialogs) with a slightly different look and behavior. This is a Vue 3 component library that several portals can share, each with its own branding.',
       es: 'Cada portal web termina reconstruyendo los mismos controles de formulario (inputs, selects, selectores de fecha, diálogos) con un aspecto y comportamiento ligeramente distintos. Es una librería de componentes Vue 3 que varios portales pueden compartir, cada uno con su propia marca.',
